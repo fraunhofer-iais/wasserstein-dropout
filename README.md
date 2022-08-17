@@ -23,10 +23,10 @@ If you use or reference Wasserstein dropout in your research, please use the fol
 
 ```BibTeX
 @article{wdropout,
-url = {https://arxiv.org/abs/2012.12687},
 author = {Sicking, Joachim and Akila, Maram and Pintz, Maximilian and Wirtz, Tim and Wrobel, Stefan and Fischer, Asja},
 title = {Wasserstein Dropout},
-publisher = {arXiv},
-year = {2021}
+journal = {Accepted for publication in Machine Learning}
+publisher = {Springer},
+year = {2022}
 }
 ```
