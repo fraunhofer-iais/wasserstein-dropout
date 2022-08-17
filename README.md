@@ -25,7 +25,7 @@ If you use or reference Wasserstein dropout in your research, please use the fol
 @article{wdropout,
 author = {Sicking, Joachim and Akila, Maram and Pintz, Maximilian and Wirtz, Tim and Wrobel, Stefan and Fischer, Asja},
 title = {Wasserstein Dropout},
-journal = {Accepted for publication in Machine Learning}
+journal = {Accepted for publication in Machine Learning},
 publisher = {Springer},
 year = {2022}
 }
